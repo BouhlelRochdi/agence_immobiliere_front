@@ -30,9 +30,57 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/assets/css/animate.css",
+              "src/assets/css/owl.theme.css",
+              "src/assets/css/bootstrap.min.css",
+              "src/assets/css/bootstrap-select.min.css",
+              "src/assets/css/bootstrap-theme.css",
+              "src/assets/css/fontello.css",
+              "src/assets/css/icheck.min_all.css",
+              "src/assets/css/ion.rangeSlider.css",
+              "src/assets/css/ion.rangeSlider.skinFlat.css",
+              "src/assets/css/ion.rangeSlider.skinNice.css",
+              "src/assets/css/jquery.slitslider.css",
+              "src/assets/css/lightslider.min.css",
+              "src/assets/css/normalize.css",
+              "src/assets/css/owl.carousel.css",
+              "src/assets/css/owl.theme.css",
+              "src/assets/css/owl.transitions.css",
+              "src/assets/css/price-range.css",
+              "src/assets/css/responsive.css",
+              "src/assets/css/slider.css",
+              "src/assets/css/style.css",
+              "src/assets/css/styleNoJS.css",
+              "src/assets/css/wizard.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/bootstrap-hover-dropdown.js",
+              "src/assets/js/bootstrap.min.js",
+              "src/assets/js/bootstrap-select.min.js",
+              "src/assets/js/bootstrap-slider.js",
+              "src/assets/js/bootstrap-wizard.min.js",
+              "src/assets/js/easypiechart.min.js",
+              "src/assets/js/gmaps.init.js",
+              "src/assets/js/icheck.min.js",
+              "src/assets/js/jquery-1.10.2.min.js",
+              "src/assets/js/jquery.ba-cond.min.js",
+              "src/assets/js/jquery.bootstrap.wizard.js",
+              "src/assets/js/jquery.easypiechart.min.js",
+              "src/assets/js/jquery.slitslider.js",
+              "src/assets/js/jquery.slitslider.js",
+              "src/assets/js/jquery.validate.min.js",
+              "src/assets/js/lightslider.min.js",
+              "src/assets/js/main.js",
+              "src/assets/js/modernizr-2.6.2.min.js",
+              "src/assets/js/modernizr.custom.79639.js",
+              "src/assets/js/owl.carousel.min.js",
+              "src/assets/js/plugins.js",
+              "src/assets/js/price-range.js",
+              "src/assets/js/wizard.js",
+              "src/assets/js/wow.js",
+              "src/assets/js/wow.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -100,5 +148,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "a7760cc2-cacc-4245-9b3a-492a813885d8"
   }
 }
